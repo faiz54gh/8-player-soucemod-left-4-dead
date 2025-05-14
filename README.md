@@ -6,10 +6,12 @@
 <br><br>admins_simple.ini change this file</br></br>
 dir file : addons\sourcemod\configs 
 
-<br> U need change this code </br>
-//	FAiZU
+<br></br>
+//	FAiZU>
 <br>STEAM_0:1:935823203	99:z</br>
 <br></br>
+
+<br>Full tutorial https://www.youtube.com/watch?v=ngpB01IIMb4&t=84s</br>
 
 
 
