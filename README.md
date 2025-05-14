@@ -16,7 +16,7 @@ dir file : addons\sourcemod\configs
 
 <br></br>
 <br>Addon 8 player slot lobby</br>
-https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355
-https://steamcommunity.com/sharedfiles/filedetails/?id=2858867374
-https://steamcommunity.com/sharedfiles/filedetails/?id=214630948
+<br>https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355</br>
+<br>https://steamcommunity.com/sharedfiles/filedetails/?id=2858867374/<br>
+<br>https://steamcommunity.com/sharedfiles/filedetails/?id=214630948</br>
 <br>Full toturial https://www.youtube.com/watch?v=ngpB01IIMb4&t=84s </br>
