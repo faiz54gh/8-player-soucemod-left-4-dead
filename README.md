@@ -4,3 +4,7 @@
 
 <br><br>admins_simple.ini change this file</br></br>
 dir file : addons\sourcemod\configs 
+
+<br></br>
+<br></br>
+test
