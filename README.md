@@ -3,7 +3,7 @@
 <br> Steam ID Finder https://steamid.xyz/ </br>
 <br> Optional https://tradeit.gg/steam-id-finder </br>
 
-<br><br>admins_simple.ini change this file</br></br>
+<br><br>admins_simple.ini <<<<<<< change this file</br></br>
 dir file : addons\sourcemod\configs\admins_simple.ini
 
 <br> U need change this code </br>
