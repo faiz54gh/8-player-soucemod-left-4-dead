@@ -11,4 +11,6 @@ dir file : addons\sourcemod\configs
 <br>STEAM_0:1:935823203	99:z</br>
 <br></br>
 
+<br>If done u can put sourcemod in folder game left 4 dead 2</br>
+<br> Put folder in : Steam\steamapps\common\Left 4 Dead 2\left4dead2 </br>
 <br>Full toturial https://www.youtube.com/watch?v=ngpB01IIMb4&t=84s </br>
