@@ -7,9 +7,10 @@
 dir file : addons\sourcemod\configs 
 
 <br></br>
+//	FAiZU>
+<br>STEAM_0:1:935823203	99:z</br>
 <br></br>
 
-//	FAiZU>
-STEAM_0:1:935823203	99:z
+
 
 
