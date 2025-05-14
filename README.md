@@ -3,4 +3,4 @@
 <br> Steam ID Finder https://steamid.xyz/ </br>
 
 <br><br>admins_simple.ini change this file</br></br>
-<br> dir file : addons\sourcemod\configs </br>
+dir file : addons\sourcemod\configs 
