@@ -13,4 +13,10 @@ dir file : addons\sourcemod\configs
 
 <br>If done u can put sourcemod in folder game left 4 dead 2</br>
 <br> Put folder in : Steam\steamapps\common\Left 4 Dead 2\left4dead2 </br>
+
+<br></br>
+<br>Addon 8 player slot lobby</br>
+https://steamcommunity.com/sharedfiles/filedetails/?id=2754956355
+https://steamcommunity.com/sharedfiles/filedetails/?id=2858867374
+https://steamcommunity.com/sharedfiles/filedetails/?id=214630948
 <br>Full toturial https://www.youtube.com/watch?v=ngpB01IIMb4&t=84s </br>
