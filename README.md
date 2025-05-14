@@ -7,8 +7,8 @@
 dir file : addons\sourcemod\configs 
 
 <br> U need change this code </br>
-<br>//	FAiZU           </br>
-<br>STEAM_0:1:935823203	99:z</br>
+<br>//	FAiZU (change the name with ur profile) </br>
+<br>STEAM_0:1:935823203	(change the name with ur id steam)</br>
 <br></br>
 
 <br>If done u can put sourcemod in folder game left 4 dead 2</br>
